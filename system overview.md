@@ -1,3 +1,6 @@
+## current system sequence model
+
+![[sequence_diagram.svg]]
 ### Context diagram
 ![[light_big_font.svg]]
 
