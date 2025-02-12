@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "وظائف الكلية.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "وظائف الكلية"
+            }
+          },
+          {
+            "id": "1c1db6eb6b801afb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "system overview.md",
                 "mode": "source",
                 "source": false
@@ -27,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "الصيدلية.md",
+                "file": "الطبيب.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "الصيدلية"
+              "title": "الطبيب"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,12 +195,13 @@
   },
   "active": "b0fb5b17453eb34e",
   "lastOpenFiles": [
-    "system overview.md",
     "الصيدلية.md",
-    "use_case_diagram.svg",
-    "النظام الغذائي.md",
     "وظائف الكلية.md",
+    "system overview.md",
     "data.md",
+    "النظام الغذائي.md",
+    "الطبيب.md",
+    "use_case_diagram.svg",
     "diagram",
     "Untitled Diagram.drawio.svg",
     "Untitled Diagram.drawio.png",
