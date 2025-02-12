@@ -1,10 +1,10 @@
-## current system sequence model
+## Sequence Model for Current System
 
 ![[sequence_diagram.svg]]
-### Context diagram
-![[light_big_font.svg]]
 
+## Automated System Context Diagram
+### ![[automated_system_context.svg]]
 
-### Use Case Diagram 
-![[use_case_diagram.svg]]
+## Automated System Use Case
 
+![[automated_system_usecase.svg]]
