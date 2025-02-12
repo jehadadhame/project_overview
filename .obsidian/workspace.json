@@ -166,14 +166,14 @@
   },
   "active": "b0fb5b17453eb34e",
   "lastOpenFiles": [
+    "data.md",
+    "system overview.md",
     "automated_system_usecase.svg",
     "diagram/automated_system_context.svg",
-    "system overview.md",
     "automated_system_context.svg",
     "automated_system_context 1.svg",
     "2-النظام الغذائي.md",
     "4-الصيدلية.md",
-    "data.md",
     "3-الطبيب.md",
     "1-وظائف الكلية.md",
     "diagram/sequence_diagram 1.svg",
@@ -182,7 +182,6 @@
     "diagram/light_big_font.svg",
     "diagram/use_case_diagram.svg",
     "context.svg",
-    "context_diagram 3.svg",
     "diagram"
   ]
 }
