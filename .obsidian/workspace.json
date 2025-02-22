@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "السكري النوع الأول/المرض/تعمق/تحديد جرعة الأنسولين.md",
+                "file": "السكري النوع الأول/وظائف النظام/possible ai function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "تحديد جرعة الأنسولين"
+              "title": "possible ai function"
             }
           },
           {
@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "possible ai function.md",
+                "file": "السكري النوع الأول/وظائف النظام/possible ai function.md",
                 "mode": "source",
                 "source": false
               },
@@ -237,11 +237,11 @@
   },
   "active": "eee8b6b00db4a606",
   "lastOpenFiles": [
-    "السكري النوع الأول/وظائف النظام/حساب جرعة الأنسولين بناءً على الطعام والشراب.md",
+    "السكري النوع الأول/وظائف النظام/مذيد/Insulin Sensitivity Factor.md",
+    "السكري النوع الأول/وظائف النظام/possible ai function.md",
     "السكري النوع الأول/المرض/تعمق/تحديد جرعة الأنسولين.md",
+    "السكري النوع الأول/وظائف النظام/حساب جرعة الأنسولين بناءً على الطعام والشراب.md",
     "السكري النوع الأول/وظائف النظام الممكنة.md",
-    "possible ai function.md",
-    "Insulin Sensitivity Factor.md",
     "السكري النوع الأول/وظائف النظام/تتبع مستوى السكر في الدم وتحليل البيانات.md",
     "السكري النوع الأول/وظائف النظام/مذيد/Carb Ratio.md",
     "السكري النوع الأول/نظرة أولى.md",
