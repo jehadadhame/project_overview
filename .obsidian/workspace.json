@@ -8,35 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "478c1924f5280d8c",
+            "id": "717bd814d3499b17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "غسيل الكلى/1-وظائف الكلية.md",
+                "file": "السكري النوع الأول/المرض/تحديد جرعة الأنسولين.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-وظائف الكلية"
+              "title": "تحديد جرعة الأنسولين"
             }
           },
           {
-            "id": "1f54bba35f06b675",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "غسيل الكلى/الساعات الذكية.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "الساعات الذكية"
-            }
-          },
-          {
-            "id": "c823d991a453fee7",
+            "id": "dc93bbb19a1764cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,35 +36,7 @@
             }
           },
           {
-            "id": "f44c346c7dee53fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "السكري النوع الأول/نظرة أولى.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "نظرة أولى"
-            }
-          },
-          {
-            "id": "432b040f76195b41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "السكري النوع الأول/المرض/تأثير النظام الغذائي.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "تأثير النظام الغذائي"
-            }
-          },
-          {
-            "id": "c62634c30c0917f7",
+            "id": "b4be1be3a0db2749",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,9 +48,51 @@
               "icon": "lucide-file",
               "title": "وظائف النظام الممكنة"
             }
+          },
+          {
+            "id": "9b24f2d61db78653",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "السكري النوع الأول/وظائف النظام/حساب جرعة الأنسولين بناءً على الطعام والشراب.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "حساب جرعة الأنسولين بناءً على الطعام والشراب"
+            }
+          },
+          {
+            "id": "eee8b6b00db4a606",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "السكري النوع الأول/المرض/تعمق/تحديد جرعة الأنسولين.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "تحديد جرعة الأنسولين"
+            }
+          },
+          {
+            "id": "2cf4395a2ca0ffe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "possible ai function.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "possible ai function"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -235,41 +235,44 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c62634c30c0917f7",
+  "active": "eee8b6b00db4a606",
   "lastOpenFiles": [
-    "السكري النوع الأول/نظرة أولى.md",
-    "السكري النوع الأول/وظائف النظام الممكنة.md",
-    "Untitled.md",
-    "السكري النوع الأول/وظائف النظام/أجهاز قياس السكر.md",
-    "السكري النوع الأول/المرض",
-    "السكري النوع الأول/المرض/تأثير الرياضة.md",
-    "السكري النوع الأول/المرض/تأثير النظام الغذائي.md",
-    "السكري النوع الأول/المرض/تحديد جرعة الأنسولين.md",
-    "السكري النوع الأول/المرض/تعمق",
+    "السكري النوع الأول/وظائف النظام/حساب جرعة الأنسولين بناءً على الطعام والشراب.md",
     "السكري النوع الأول/المرض/تعمق/تحديد جرعة الأنسولين.md",
+    "السكري النوع الأول/وظائف النظام الممكنة.md",
+    "possible ai function.md",
+    "Insulin Sensitivity Factor.md",
     "السكري النوع الأول/وظائف النظام/تتبع مستوى السكر في الدم وتحليل البيانات.md",
+    "السكري النوع الأول/وظائف النظام/مذيد/Carb Ratio.md",
+    "السكري النوع الأول/نظرة أولى.md",
+    "السكري النوع الأول/المرض/تحديد جرعة الأنسولين.md",
+    "غسيل الكلى/System Proposal 2.md",
+    "غسيل الكلى/diagram/use_case_diagram.svg",
+    "غسيل الكلى/diagram/sequence_diagram.svg",
+    "غسيل الكلى/diagram/automated_system_usecase.svg",
+    "غسيل الكلى/diagram/light_big_font.svg",
+    "غسيل الكلى/diagram/automated_system_context.svg",
+    "السكري النوع الأول/المرض/تأثير الرياضة.md",
+    "السكري النوع الأول/وظائف النظام/أجهاز قياس السكر.md",
+    "السكري النوع الأول/وظائف النظام/مذيد",
+    "السكري النوع الأول/المرض",
+    "السكري النوع الأول/المرض/تأثير النظام الغذائي.md",
+    "السكري النوع الأول/المرض/تعمق",
     "السكري النوع الأول/mdedia/CGM.jpg",
     "السكري النوع الأول/mdedia",
-    "السكري النوع الأول/وظائف النظام/حساب جرعة الأنسولين بناءً على الطعام والشراب.md",
     "السكري النوع الأول/وظائف النظام",
     "غسيل الكلى/الساعات الذكية.md",
     "السكري النوع الأول",
     "غسيل الكلى/1-وظائف الكلية.md",
     "غسيل الكلى/System Proposal.md",
     "غسيل الكلى",
-    "غسيل الكلى/System Proposal 2.md",
     "غسيل الكلى/system overview.md",
     "غسيل الكلى/automated_system_context.svg",
     "غسيل الكلى/بحث.md",
-    "غسيل الكلى/diagram/automated_system_context.svg",
     "غسيل الكلى/scope.md",
     "غسيل الكلى/4-الصيدلية.md",
     "غسيل الكلى/3-الطبيب.md",
     "غسيل الكلى/2-النظام الغذائي.md",
-    "غسيل الكلى/diagram/automated_system_usecase.svg",
-    "غسيل الكلى/diagram/sequence_diagram.svg",
-    "غسيل الكلى/diagram/light_big_font.svg",
-    "غسيل الكلى/diagram/use_case_diagram.svg",
     "data.md",
     "automated_system_context 1.svg",
     "diagram/sequence_diagram 1.svg",
