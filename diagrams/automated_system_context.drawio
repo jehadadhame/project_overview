@@ -1,0 +1,131 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.12">
+  <diagram name="Page-1" id="J2TOgP3RSEbqBF2EWQEO">
+    <mxGraphModel dx="823" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Q34S111aeIbzF66E8h2H-16" value="نظام إدارة مرضى الكلى" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="86" y="386" width="434" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Q34S111aeIbzF66E8h2H-24" value="المختبر" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="10" y="560" width="97" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Q34S111aeIbzF66E8h2H-25" value="الصيدلية" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="157" y="560" width="103" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Q34S111aeIbzF66E8h2H-26" value="وحدة_غسيل_الكلى" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="310" y="560" width="157" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Q34S111aeIbzF66E8h2H-27" value="أخصائي_التغذية" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="516" y="560" width="143" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Q34S111aeIbzF66E8h2H-28" value="المريض" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="90" y="230" width="102" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Q34S111aeIbzF66E8h2H-29" value="الطبيب_العام" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="327" y="260" width="126" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Q34S111aeIbzF66E8h2H-30" value="طلب تحاليل" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=1;entryX=0.5;entryY=0;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" edge="1" parent="1" source="Q34S111aeIbzF66E8h2H-16" target="Q34S111aeIbzF66E8h2H-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q34S111aeIbzF66E8h2H-31" value="الوصفات الطبية" style="curved=1;startArrow=none;endArrow=block;exitX=0.33;exitY=1;entryX=0.5;entryY=0;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" edge="1" parent="1" source="Q34S111aeIbzF66E8h2H-16" target="Q34S111aeIbzF66E8h2H-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q34S111aeIbzF66E8h2H-32" value="طلب موعد" style="curved=1;startArrow=none;endArrow=block;exitX=0.67;exitY=1;entryX=0.5;entryY=0;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" edge="1" parent="1" source="Q34S111aeIbzF66E8h2H-16" target="Q34S111aeIbzF66E8h2H-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q34S111aeIbzF66E8h2H-33" value="تحديث النظام الغذائي" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.97;entryX=0.5;entryY=0;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" edge="1" parent="1" source="Q34S111aeIbzF66E8h2H-16" target="Q34S111aeIbzF66E8h2H-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q34S111aeIbzF66E8h2H-34" value="زيارة طبيب عام" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.622;entryX=0.35;entryY=0;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" edge="1" parent="1" source="Q34S111aeIbzF66E8h2H-28" target="Q34S111aeIbzF66E8h2H-16">
+          <mxGeometry x="0.3153" y="-1" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="320" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q34S111aeIbzF66E8h2H-35" value="طلب تحاليل" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.65;entryY=0;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" edge="1" parent="1" source="Q34S111aeIbzF66E8h2H-29" target="Q34S111aeIbzF66E8h2H-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q34S111aeIbzF66E8h2H-36" value="نتائج التحاليل" style="curved=1;startArrow=none;endArrow=block;entryX=0.067;entryY=0.993;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.848;exitY=-0.034;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" edge="1" parent="1" source="Q34S111aeIbzF66E8h2H-24" target="Q34S111aeIbzF66E8h2H-16">
+          <mxGeometry x="0.0257" y="17" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="570" />
+            </Array>
+            <mxPoint x="70" y="790" as="sourcePoint" />
+            <mxPoint x="79" y="801" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q34S111aeIbzF66E8h2H-37" value="إعطاء موعد" style="curved=1;startArrow=none;endArrow=block;exitX=0.654;exitY=-0.046;entryX=0.75;entryY=1;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" edge="1" parent="1" source="Q34S111aeIbzF66E8h2H-26" target="Q34S111aeIbzF66E8h2H-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="530" />
+            </Array>
+            <mxPoint x="409" y="718" as="sourcePoint" />
+            <mxPoint x="425" y="791" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q34S111aeIbzF66E8h2H-38" value="نتائج التحاليل" style="curved=1;startArrow=none;endArrow=block;exitX=0.738;exitY=-0.005;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" edge="1" parent="1" source="Q34S111aeIbzF66E8h2H-16" target="Q34S111aeIbzF66E8h2H-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="350" />
+            </Array>
+            <mxPoint x="400" y="324" as="sourcePoint" />
+            <mxPoint x="385" y="396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q34S111aeIbzF66E8h2H-39" value="موعد جلسة غسيل الكلى" style="curved=1;startArrow=none;endArrow=block;exitX=0.023;exitY=0.009;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" edge="1" parent="1" source="Q34S111aeIbzF66E8h2H-16" target="Q34S111aeIbzF66E8h2H-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="360" />
+            </Array>
+            <mxPoint x="124" y="384" as="sourcePoint" />
+            <mxPoint x="117" y="314" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q34S111aeIbzF66E8h2H-40" value="تحديث النظام الغذائي" style="curved=1;startArrow=none;endArrow=block;exitX=0.103;exitY=-0.003;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" edge="1" parent="1">
+          <mxGeometry x="-0.5063" y="-2" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="84" y="360" />
+            </Array>
+            <mxPoint x="125.73199999999997" y="385.004" as="sourcePoint" />
+            <mxPoint x="109.5" y="284" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q34S111aeIbzF66E8h2H-41" value="تحديث الكورس العالجي" style="curved=1;startArrow=none;endArrow=block;exitX=0.103;exitY=-0.003;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" edge="1" parent="1">
+          <mxGeometry x="0.2904" y="-2" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="370" />
+            </Array>
+            <mxPoint x="149" y="387" as="sourcePoint" />
+            <mxPoint x="133" y="286" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

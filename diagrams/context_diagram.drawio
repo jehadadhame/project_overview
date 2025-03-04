@@ -1,0 +1,191 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
+  <diagram name="Page-1" id="xpbaxxYKT5AD7QV_elxN">
+    <mxGraphModel dx="2196" dy="-2033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-133" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="3890" width="1730" height="1348" as="geometry" />
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-103" value="المريض" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="uzLeT-ftwqVu-U7Tmw_t-133">
+          <mxGeometry width="150" height="1348" as="geometry" />
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-104" value="الطبيب العام" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="uzLeT-ftwqVu-U7Tmw_t-133">
+          <mxGeometry x="200" width="150" height="1348" as="geometry" />
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-105" value="المختبر" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="uzLeT-ftwqVu-U7Tmw_t-133">
+          <mxGeometry x="400" width="150" height="1348" as="geometry" />
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-106" value="طبيب الكلى" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="uzLeT-ftwqVu-U7Tmw_t-133">
+          <mxGeometry x="600" width="150" height="1348" as="geometry" />
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-107" value="أخصائي التغذية" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="uzLeT-ftwqVu-U7Tmw_t-133">
+          <mxGeometry x="980" width="150" height="1348" as="geometry" />
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-108" value="الصيدلية" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="uzLeT-ftwqVu-U7Tmw_t-133">
+          <mxGeometry x="1180" width="150" height="1348" as="geometry" />
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-109" value="نظام المواعيد" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="uzLeT-ftwqVu-U7Tmw_t-133">
+          <mxGeometry x="1380" width="150" height="1348" as="geometry" />
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-110" value="وحدة غسيل الكلى" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="uzLeT-ftwqVu-U7Tmw_t-133">
+          <mxGeometry x="1580" width="150" height="1348" as="geometry" />
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-111" value="زيارة الطبيب العام" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="uzLeT-ftwqVu-U7Tmw_t-133" source="uzLeT-ftwqVu-U7Tmw_t-103" target="uzLeT-ftwqVu-U7Tmw_t-104">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="184" y="109" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-112" value="طلب تحاليل مخبرية" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="uzLeT-ftwqVu-U7Tmw_t-133" source="uzLeT-ftwqVu-U7Tmw_t-104" target="uzLeT-ftwqVu-U7Tmw_t-105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="384" y="163" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-113" value="إرسال نتائج التحاليل" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="uzLeT-ftwqVu-U7Tmw_t-133" source="uzLeT-ftwqVu-U7Tmw_t-105" target="uzLeT-ftwqVu-U7Tmw_t-104">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="387" y="217" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-114" value="إحالة المريض إلى طبيب الكلى مع النتائج" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="uzLeT-ftwqVu-U7Tmw_t-133" source="uzLeT-ftwqVu-U7Tmw_t-104" target="uzLeT-ftwqVu-U7Tmw_t-106">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="484" y="271" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-115" value="معاينة المريض ومراجعة التحاليل" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="uzLeT-ftwqVu-U7Tmw_t-133" source="uzLeT-ftwqVu-U7Tmw_t-106" target="uzLeT-ftwqVu-U7Tmw_t-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="387" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-116" value="إحالة المريض لأخصائي التغذية" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="uzLeT-ftwqVu-U7Tmw_t-133" source="uzLeT-ftwqVu-U7Tmw_t-106" target="uzLeT-ftwqVu-U7Tmw_t-107">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="874" y="379" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-117" value="تقديم نصائح غذائية وبرنامج غذائي مناسب" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="uzLeT-ftwqVu-U7Tmw_t-133" source="uzLeT-ftwqVu-U7Tmw_t-107" target="uzLeT-ftwqVu-U7Tmw_t-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="577" y="433" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-118" value="وصف أدوية للمريض (مثلاً: فيتامينات، أدوية لضغط الدم)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="uzLeT-ftwqVu-U7Tmw_t-133" source="uzLeT-ftwqVu-U7Tmw_t-106" target="uzLeT-ftwqVu-U7Tmw_t-108">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="974" y="487" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-119" value="تسليم الأدوية وإرشادات الاستخدام" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="uzLeT-ftwqVu-U7Tmw_t-133" source="uzLeT-ftwqVu-U7Tmw_t-108" target="uzLeT-ftwqVu-U7Tmw_t-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="677" y="541" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-120" value="طلب موعد غسيل مع توضيح حالة المريض وأولويته" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="uzLeT-ftwqVu-U7Tmw_t-133" source="uzLeT-ftwqVu-U7Tmw_t-106" target="uzLeT-ftwqVu-U7Tmw_t-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1074" y="595" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-121" value="تأكيد موعد الغسيل" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="uzLeT-ftwqVu-U7Tmw_t-133" source="uzLeT-ftwqVu-U7Tmw_t-109" target="uzLeT-ftwqVu-U7Tmw_t-106">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1077" y="649" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-122" value="إبلاغ المريض بموعد جلسة الغسيل" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="uzLeT-ftwqVu-U7Tmw_t-133" source="uzLeT-ftwqVu-U7Tmw_t-106" target="uzLeT-ftwqVu-U7Tmw_t-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="387" y="703" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-123" value="حضور جلسة الغسيل" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="uzLeT-ftwqVu-U7Tmw_t-133" source="uzLeT-ftwqVu-U7Tmw_t-103" target="uzLeT-ftwqVu-U7Tmw_t-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="874" y="757" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-124" value="إجراء الجلسة ومراقبة الحالة" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="uzLeT-ftwqVu-U7Tmw_t-133" source="uzLeT-ftwqVu-U7Tmw_t-110" target="uzLeT-ftwqVu-U7Tmw_t-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="877" y="811" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-125" value="إرسال تقرير عن حالة المريض أثناء الغسيل" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="uzLeT-ftwqVu-U7Tmw_t-133" source="uzLeT-ftwqVu-U7Tmw_t-110" target="uzLeT-ftwqVu-U7Tmw_t-106">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1177" y="865" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-126" value="متابعة الحالة وتعديلات على الأدوية إذا لزم الأمر" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="uzLeT-ftwqVu-U7Tmw_t-133" source="uzLeT-ftwqVu-U7Tmw_t-106" target="uzLeT-ftwqVu-U7Tmw_t-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="387" y="919" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-127" value="الحصول على الأدوية المحدثة (إذا تم التعديل)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="uzLeT-ftwqVu-U7Tmw_t-133" source="uzLeT-ftwqVu-U7Tmw_t-103" target="uzLeT-ftwqVu-U7Tmw_t-108">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="674" y="973" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-128" value="مراجعة حالة المريض الغذائية بعد الجلسة الأولى" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="uzLeT-ftwqVu-U7Tmw_t-133" source="uzLeT-ftwqVu-U7Tmw_t-106" target="uzLeT-ftwqVu-U7Tmw_t-107">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="874" y="1027" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-129" value="تحديث النظام الغذائي حسب الحالة" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="uzLeT-ftwqVu-U7Tmw_t-133" source="uzLeT-ftwqVu-U7Tmw_t-107" target="uzLeT-ftwqVu-U7Tmw_t-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="577" y="1081" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-130" value="طلب موعد الجلسة الثانية" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="uzLeT-ftwqVu-U7Tmw_t-133" source="uzLeT-ftwqVu-U7Tmw_t-106" target="uzLeT-ftwqVu-U7Tmw_t-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1074" y="1135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-131" value="تأكيد موعد الجلسة القادمة" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="uzLeT-ftwqVu-U7Tmw_t-133" source="uzLeT-ftwqVu-U7Tmw_t-109" target="uzLeT-ftwqVu-U7Tmw_t-106">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1077" y="1189" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzLeT-ftwqVu-U7Tmw_t-132" value="إبلاغ المريض بموعد الجلسة الثانية" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontStyle=3;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="uzLeT-ftwqVu-U7Tmw_t-133" source="uzLeT-ftwqVu-U7Tmw_t-106" target="uzLeT-ftwqVu-U7Tmw_t-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="387" y="1243" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
